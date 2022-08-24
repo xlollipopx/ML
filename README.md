@@ -16,7 +16,7 @@ To use regression algorithm we need to remove uncorrelated valiables to improve 
 Here we can see that ArrDelay has the stongest correlation with DepDelay and TexiOut.
 Hence we will use them as independent variables in regression algorithms.
 
-##Results
+## Results
 Before training, the data was split into a training and test set 70% and 30% respectively.
 After comparing regression metrics(mean square error and mean absolute error) linear regression
 gave better result than random forest regression.
